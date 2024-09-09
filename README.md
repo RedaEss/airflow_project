@@ -41,6 +41,6 @@ This project focuses on the retrieval, transformation, and storage of data from 
    
 
 ## Workflow Diagram
-[Workflow Infrastructure](workflow_infrastructure.png?raw=true)
+![Workflow Infrastructure](workflow_infrastructure.png?raw=true)
 
 
